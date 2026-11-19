@@ -1,0 +1,8 @@
+ENCERTS
+- Els colors de la pagina li donen un bon estil i la fan mes intuitiva
+- Te animacions i efects que la fan més atractiva
+
+
+PROBLEMES
+- A la barra de navegació hi ha textos que están més enganxats que altres als del voltant
+- Hi ha espais mal aprofitats
